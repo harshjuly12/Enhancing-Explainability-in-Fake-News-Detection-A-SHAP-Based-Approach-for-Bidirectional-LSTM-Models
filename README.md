@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cd21f26b-a70a-4511-b170-96c171ff7eb5" width="400" style="margin-right: 10;"></td>
+    <td><img src="https://github.com/user-attachments/assets/cd21f26b-a70a-4511-b170-96c171ff7eb5" width="350" style="margin-right: 10;"></td>
     <td><h1 style="margin: 0;">Enhancing Explainability in Fake News Detection: A SHAP-Based Approach for Bidirectional LSTM Models</h1></td>
   </tr>
 </table>
